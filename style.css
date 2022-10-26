@@ -1,0 +1,92 @@
+.card {
+  width: 400px;
+  margin-top: 10px;
+}
+.container-bottom {
+  margin-bottom: -40px;
+}
+.card-options {
+  width: 365px;
+  position: relative;
+  left: 6px;
+  margin-bottom: 30px;
+  padding: 15px 0 15px 0;
+}
+.card-options-1 {
+  width: 365px;
+  position: relative;
+  left: 18px;
+  margin-bottom: 25px;
+  margin-top: 15px;
+}
+.col-1 {
+  position: relative;
+  left: 30px;
+}
+.col-2 {
+  position: relative;
+  left: 75px;
+}
+.col-3 {
+  position: relative;
+  left: 115px;
+}
+.col-sm-1 {
+  position: relative;
+  right: 270px;
+  top: -2px;
+}
+.card-1 {
+  width: 70px;
+  position: relative;
+  left: 7px;
+}
+.card-2 {
+  width: 70px;
+  position: relative;
+  right: 18px;
+}
+.card-3 {
+  width: 70px;
+  position: relative;
+  left: -45px;
+}
+.card-4 {
+  width: 70px;
+  position: relative;
+  right: 71px;
+}
+.card-5 {
+  width: 70px;
+  position: relative;
+  bottom: 122px;
+  left: 300px;
+}
+.sun-icon {
+  position: relative;
+  bottom: 50px;
+  left: 160px;
+  font-size: 50px;
+}
+.bars-icon {
+  position: absolute;
+  top: 28px;
+  left: 25px;
+}
+.wind-icon {
+  position: relative;
+  left: 15px;
+}
+.droplet-icon {
+  position: relative;
+  left: 6px;
+}
+.cloud-showers-heavy-icon {
+  position: relative;
+  left: 4px;
+}
+button {
+  position: relative;
+  left: 200px;
+  top: -33px;
+}
